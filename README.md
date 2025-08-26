@@ -26,14 +26,26 @@
 
 ### 🚀 My Projects
 
-| 📌 Project                       | 💡 Description                                                              | 🧰 Tech Stack                                                           | 📅 Status              |
-| :------------------------------- | :-------------------------------------------------------------------------- | :---------------------------------------------------------------------- | :--------------------- |
-| **AI Resume Screener**           | AWS-based system to parse and analyze resumes, deployed on a private server | AWS (Lambda, S3, Textract, Comprehend), DynamoDB, RHEL, Jenkins, Docker | July 2025 – Present    |
-| **Digitization of MANIT Campus** | Full-stack spatial mapping app with an interactive web-based platform       | React, Node.js, MongoDB, ArcGIS, Google Earth Pro                       | ✅ Completed (May 2025) |
-| **SkillSwap**                    | Peer learning platform with real-time chat, video, and dashboards           | MERN Stack, Socket.IO, Tailwind CSS, Jitsi                              | 🔄 Ongoing             |
+🤖 AI Resume Screener
+Status: July 2025 – Present
 
----
+Description: An AWS-based serverless system designed to automatically parse, analyze, and screen resumes. It's deployed on a private RHEL server for secure, enterprise-level use.
 
+Tech Stack: AWS Lambda, S3, Textract, Comprehend, DynamoDB, Jenkins, Docker
+
+🗺️ Digitization of MANIT Campus
+Status: ✅ Completed (May 2025)
+
+Description: A full-stack spatial mapping application that provides an interactive, web-based platform for easy campus navigation and information discovery.
+
+Tech Stack: React, Node.js, MongoDB, ArcGIS, Google Earth Pro, MapBox
+
+🤝 SkillSwap
+Status: 🔄 Ongoing
+
+Description: A peer-to-peer learning platform that intelligently connects users based on their skills. It features real-time chat, video conferencing, and collaborative dashboards.
+
+Tech Stack: MERN Stack, Socket.IO, Tailwind CSS, Jitsi API
 ### 🏆 Contributions & Achievements
 
 * ✅ **Problem Solving**: Solved **200+ DSA problems** on LeetCode and GeeksForGeeks 📚
