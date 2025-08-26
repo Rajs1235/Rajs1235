@@ -39,7 +39,7 @@ GitHub 🐙 VS Code Postman Docker 🐳 Jenkins 🔧 AWS ☁️
 <td width="100%">
 <strong>🤖 AI Resume Screener</strong>
 <br/>
-<em>Status: In Progress</em>
+<em>Status: ✅ Completed</em>
 <br/><br/>
 An AWS-based serverless system to parse and screen resumes, deployed on a private RHEL server.
 <br/><br/>
@@ -65,7 +65,6 @@ A full-stack spatial mapping app with an interactive platform for campus navigat
 <td width="100%">
 <strong>🤝 SkillSwap</strong>
 <br/>
-<em>Status: In Progress</em>
 <br/><br/>
 A peer-to-peer learning platform with real-time chat, video, and collaborative dashboards.
 <br/><br/>
