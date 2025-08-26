@@ -19,12 +19,25 @@ Developing a peer-to-peer learning platform using the MERN Stack and Socket.IO w
 🛠️ Tools & Platforms: GitHub 🐙, VS Code, Postman, Docker 🐳, Jenkins 🔧
 
 🚀 My Projects
-📌 Project	💡 Description	🧰 Tech Stack	📅 Status
-🤖 AI Resume Screener	An AWS-based serverless system to parse and screen resumes, deployed on a private RHEL server.	AWS Lambda, S3, Textract, DynamoDB	July 2025 – Present
-🗺️ Digitization of MANIT Campus	A full-stack spatial mapping app with an interactive platform for campus navigation.	React, Node.js, MongoDB, ArcGIS	✅ Completed (May 2025)
-🤝 SkillSwap	A peer-to-peer learning platform with real-time chat, video, and collaborative dashboards.	MERN Stack, Socket.IO, Tailwind CSS	🔄 Ongoing
+🤖 AI Resume Screener
+Status: July 2025
+[Check Out Project Here]((https://prod.d2q5q5emrb0p3v.amplifyapp.com/))
+Description: An AWS-based serverless system to parse and screen resumes, deployed on a private RHEL server.
 
-Export to Sheets
+Tech Stack: AWS Lambda, S3, Textract, DynamoDB, Jenkins, Docker
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🗺️ Digitization of MANIT Campus
+Status: ✅ Completed (May 2025)
+
+Description: A full-stack spatial mapping app with an interactive platform for campus navigation.
+[Check Out Project Here]((https://bobbymanitmap.netlify.app/))
+Tech Stack: React, Node.js, MongoDB, ArcGIS, MapBox
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🤝 SkillSwap
+Description: A peer-to-peer learning platform with real-time chat, video, and collaborative dashboards.
+
+Tech Stack: MERN Stack, Socket.IO, Tailwind CSS, Jitsi API
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🏆 Contributions & Achievements
 ✅ Problem Solving: Solved 200+ DSA problems on LeetCode and GeeksForGeeks 📚
 
@@ -32,7 +45,8 @@ Export to Sheets
 
 📫 Let's Connect!
 📧 Email: raj25oct2003@gmail.com
-
+Leetcode:https://leetcode.com/u/rajsrivastava2510/
+GFG:https://www.geeksforgeeks.org/user/rajsrivasunn1/
 🔗 LinkedIn: Raj Srivastava
 
-💻 GitHub: Rajs1236
+💻 GitHub: Rajs1236,Rajs1235
