@@ -35,12 +35,6 @@
 <a href="https://www.linkedin.com/in/raj-srivastava-a7337322a/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="httpsStorage://leetcode.com/u/rajsrivastava2510/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-<a href="https://www.geeksforgeeks.org/user/rajsrivasunn1/" target="_blank">
-<img src="https://img.shields.io/badge/GFG-2f8d46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks"/>
-</a>
 <a href="https://github.com/Rajs1235" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
