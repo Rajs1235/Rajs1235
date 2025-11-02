@@ -3,13 +3,13 @@
 
 ---
 
-### 🚀 What I'm Currently Working On
+### 🚀 EXPERIENCE
 🧠 **Cloud Intern at Lava International Ltd.**
 * Successfully **developed and deployed** a serverless AI Resume Screener using AWS services.
 * Setting up and **managing** CI/CD pipelines with Jenkins, Docker, and RHEL.
 
 🤝 **SkillSwap (Peer Learning Platform)**
-* Developing a peer-to-peer learning platform using the MERN Stack and Socket.IO with real-time chat 💬 and video call 📹 features.
+* Developed a peer-to-peer learning platform using the MERN Stack with video call 📹 features.
 
 ---
 
