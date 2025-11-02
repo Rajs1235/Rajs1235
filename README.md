@@ -1,4 +1,4 @@
-👋 Hi there, I'm Raj Srivastava!
+###👋 Hi there, I'm Raj Srivastava!
 💻 I'm a passionate developer and a B.Tech student at MANIT, Bhopal, with a focus on building scalable applications using cloud-native technologies and the MERN stack. I love solving real-world problems and enjoy collaborating on innovative projects that make a difference.
 
 ---
