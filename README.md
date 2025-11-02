@@ -53,10 +53,10 @@
 ### 🏆 Stats & Achievements
 <p align="center">
   <a href="https://github.com/Rajs1236">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajs1236&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Raj's GitHub Stats" height="170px" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajs1235&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Raj's GitHub Stats" height="170px" />
   </a>
   <a href="httpsWhat I'm Currently Working On">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajs1236&layout=compact&theme=tokyonight" alt="Top Langs" height="170px" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajs1235&layout=compact&theme=tokyonight" alt="Top Langs" height="170px" />
   </a>
 </p>
 <p align="center">
