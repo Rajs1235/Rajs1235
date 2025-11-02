@@ -43,7 +43,7 @@
 <a href="https://www.geeksforgeeks.org/user/rajsrivasunn1/" target="_blank">
 <img src="https://img.shields.io/badge/GFG-2f8d46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks"/>
 </a>
-<a href="httpss://github.com/Rajs1236" target="_blank">
+<a href="httpss://github.com/Rajs1235" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 </p>
