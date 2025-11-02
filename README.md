@@ -95,7 +95,7 @@ A full-stack spatial mapping app with an interactive platform for campus navigat
 <td width="100%">
 <strong>🤝 SkillSwap</strong>
 <br/>
-<em>Status: ⏳ In Progress</em>
+
 <br/><br/>
 A peer-to-peer learning platform with real-time chat, video, and collaborative dashboards.
 <br/><br/>
