@@ -23,6 +23,12 @@
 
 ---
 
+### 🎓 Certifications
+* **Web Development using AI** by Cuvette
+* **Data Structures & Algorithms** by CodeHelp
+
+---
+
 ### 📫 Let's Connect!
 <p align="left">
 <a href="mailto:raj25oct2003@gmail.com" target="_blank">
@@ -37,7 +43,7 @@
 <a href="https://www.geeksforgeeks.org/user/rajsrivasunn1/" target="_blank">
 <img src="https://img.shields.io/badge/GFG-2f8d46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks"/>
 </a>
-<a href="https://github.com/Rajs1236" target="_blank">
+<a href="httpss://github.com/Rajs1236" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 </p>
@@ -46,10 +52,10 @@
 
 ### 🏆 Stats & Achievements
 <p align="center">
-  <a href="https://github.com/Rajs1235">
+  <a href="https://github.com/Rajs1236">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajs1236&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Raj's GitHub Stats" height="170px" />
   </a>
-  <a href="https://github.com/Rajs1235">
+  <a href="httpsWhat I'm Currently Working On">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajs1236&layout=compact&theme=tokyonight" alt="Top Langs" height="170px" />
   </a>
 </p>
@@ -91,7 +97,7 @@ A full-stack spatial mapping app with an interactive platform for campus navigat
 <br/><br/>
 <strong>Tech Stack:</strong> React, Node.js, MongoDB, ArcGIS, MapBox
 <br/>
-<a href="https://bobbymanitmap.netlify.app/" target="_blank"><strong>Check Out Project Here</strong></a>
+<a href="httpss://bobbymanitmap.netlify.app/" target="_blank"><strong>Check Out Project Here</strong></a>
 </td>
 </tr>
 <tr>
