@@ -3,13 +3,13 @@
 
 ---
 
-### 🚀 EXPERIENCE
+### 🚀 What I'm Currently Working On
 🧠 **Cloud Intern at Lava International Ltd.**
 * Successfully **developed and deployed** a serverless AI Resume Screener using AWS services.
 * Setting up and **managing** CI/CD pipelines with Jenkins, Docker, and RHEL.
 
 🤝 **SkillSwap (Peer Learning Platform)**
-* Developed a peer-to-peer learning platform using the MERN Stack with video call 📹 features.
+* Developing a peer-to-peer learning platform using the MERN Stack and Socket.IO with real-time chat 💬 and video call 📹 features.
 
 ---
 
@@ -43,7 +43,7 @@
 <a href="https://www.geeksforgeeks.org/user/rajsrivasunn1/" target="_blank">
 <img src="https://img.shields.io/badge/GFG-2f8d46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks"/>
 </a>
-<a href="httpss://github.com/Rajs1235" target="_blank">
+<a href="https://github.com/Rajs1235" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 </p>
@@ -52,10 +52,10 @@
 
 ### 🏆 Stats & Achievements
 <p align="center">
-  <a href="https://github.com/Rajs1236">
+  <a href="https://github.com/Rajs1235">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajs1235&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Raj's GitHub Stats" height="170px" />
   </a>
-  <a href="httpsWhat I'm Currently Working On">
+  <a href="https://github.com/Rajs1235">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajs1235&layout=compact&theme=tokyonight" alt="Top Langs" height="170px" />
   </a>
 </p>
@@ -97,7 +97,7 @@ A full-stack spatial mapping app with an interactive platform for campus navigat
 <br/><br/>
 <strong>Tech Stack:</strong> React, Node.js, MongoDB, ArcGIS, MapBox
 <br/>
-<a href="httpss://bobbymanitmap.netlify.app/" target="_blank"><strong>Check Out Project Here</strong></a>
+<a href="httpsB://bobbymanitmap.netlify.app/" target="_blank"><strong>Check Out Project Here</strong></a>
 </td>
 </tr>
 <tr>
