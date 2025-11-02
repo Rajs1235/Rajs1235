@@ -60,7 +60,6 @@
   </a>
 </p>
 <br>
-💡 **Hackathons:** Participated in the ZS Associates Hackathon, building tech-driven business solutions 💼
 
 ---
 
