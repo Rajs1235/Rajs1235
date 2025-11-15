@@ -52,8 +52,8 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://leetcode.com/u/rajsrivastava2510/">
-    <img align="center" src="https://leetcode-stats.vercel.app/api?username=rajsrivastava2510&theme=dark" alt="Raj's LeetCode Stats" height="170px" />
+<a href="https://leetcode.com/u/rajsrivastava2510/">
+    <img align="center" src="https://leetcode-stats.s-yadav.nl/api?username=rajsrivastava2510&theme=dark" alt="Raj's LeetCode Stats" height="170px" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/rajsrivasunn1/">
     <img align="center" src="https://geeks-for-geeks-stats-api.vercel.app/?userName=rajsrivasunn1" alt="Raj's GFG Stats" height="170px" />
