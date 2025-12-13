@@ -1,13 +1,12 @@
 ### 👋 Hi there, I'm Raj Srivastava!
-💻 I'm a passionate developer and a B.Tech student at MANIT, Bhopal, with a focus on building scalable applications using cloud-native technologies and the MERN stack. I love solving real-world problems and enjoy collaborating on innovative projects that make a difference.
+💻 I'm a passionate **Cloud-Native Developer** and a B.Tech student at MANIT, Bhopal, specializing in building **scalable, full-stack applications** using the **MERN stack** and robust **DevOps principles** (AWS, Docker, Jenkins). I am driven to solve real-world problems and collaborate on innovative projects that leverage modern, distributed architecture.
 
 ---
 
-### 🚀WORK EXPERIENCE
+### 🚀 WORK EXPERIENCE
 🧠 **Cloud Intern at Lava International Ltd.**
-* Successfully **developed and deployed** a serverless AI Resume Screener using AWS services.
-* Setting up and **managing** CI/CD pipelines with Jenkins, Docker, and RHEL.
-
+* Successfully **developed and deployed** a serverless AI Resume Screener using various AWS services (Lambda, Textract, S3, DynamoDB).
+* Setting up and **managing** CI/CD pipelines for deployment stability with Jenkins, Docker, and RHEL.
 
 ---
 
@@ -41,11 +40,10 @@
 </p>
 
 ---
- 
- 
+
 ### 🏆 Stats & Achievements
 <p align="center">
-<a href="https://github.com/Rajs1235">
+  <a href="https://github.com/Rajs1235">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajs1235&show_icons=true&theme=tokyonight&count_private=false&include_all_commits=true&hide_rank=true" alt="Raj's GitHub Stats" height="170px" />
   </a>
   <a href="https://github.com/Rajs1235">
@@ -57,14 +55,13 @@
   <a href="https://leetcode.com/u/rajsrivastava2510/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Raj's LeetCode Profile"/>
   </a>
-  
   <a href="https://www.geeksforgeeks.org/user/rajsrivasunn1/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/GeeksforGeeks-2E8B57?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="Raj's GFG Profile"/>
   </a>
 </p>
 <br>
+
 ---
- 
 
 ### 🚀 My Projects
 <table>
@@ -81,6 +78,7 @@ An AWS-based serverless system to parse and screen resumes, deployed on a privat
 <a href="https://prod.d2q5q5emrb0p3v.amplifyapp.com/" target="_blank"><strong>Check Out Project Here</strong></a>
 </td>
 </tr>
+ 
 <tr>
 <td width="100%">
 <strong>🗺️ Digitization of MANIT Campus</strong>
@@ -96,9 +94,25 @@ A full-stack spatial mapping app with an interactive platform for campus navigat
 </tr>
 <tr>
 <td width="100%">
+<strong>⚙️ QUEUECTL: CLI Job Queue System</strong>
+<br/>
+<em>Status: ✅ Completed</em>
+<br/><br/>
+A production-grade, CLI-based background task queue manager designed for distributed tasks, featuring atomic job processing and robustness against system failures.
+<br/><br/>
+* **Key Features:** Persistent storage in MongoDB, concurrent worker processes via `child_process.fork`, atomic job locking to prevent race conditions, and automatic retries using **exponential backoff**.
+* **Robustness:** Implements a Dead Letter Queue (DLQ) for failed jobs and a graceful shutdown mechanism using `SIGTERM` signals.
+<br/>
+<strong>Tech Stack:</strong> Node.js, MongoDB, Mongoose, Commander.js, child_process
+<br/>
+<a href="https://github.com/Rajs1235/FLAM-TASK.git" target="_blank"><strong>View Codebase Here</strong></a>
+</td>
+</tr>
+<tr>
+<td width="100%">
 <strong>🤝 SkillSwap</strong>
 <br/>
-
+ 
 <br/><br/>
 A peer-to-peer learning platform with real-time chat, video, and collaborative dashboards.
 <br/><br/>
