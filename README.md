@@ -42,28 +42,29 @@
 
 ---
  
+ 
 ### 🏆 Stats & Achievements
 <p align="center">
   <a href="https://github.com/Rajs1235">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile?username=Rajs1235&theme=monokai" alt="Raj's GitHub Profile Summary" height="170px" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajs1235&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_rank=true" alt="Raj's GitHub Stats" height="170px" />
   </a>
   <a href="https://github.com/Rajs1235">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rajs1235&theme=monokai" alt="Raj's Top Languages" height="170px" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajs1235&layout=compact&theme=tokyonight" alt="Top Langs" height="170px" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/rajsrivastava2510/">
-    <img align="center" src="https://leetcode-stats-api.herokuapp.com/rajsrivastava2510" alt="Raj's LeetCode Stats" height="170px" />
+  <a href="https://leetcode.com/u/rajsrivastava2510/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Raj's LeetCode Profile"/>
   </a>
   
-  <a href="https://www.geeksforgeeks.org/user/rajsrivasunn1/">
-    <img align="center" src="https://gfg-badge-api.onrender.com/api/user/rajsrivasunn1" alt="Raj's GFG Stats" height="170px" />
+  <a href="https://www.geeksforgeeks.org/user/rajsrivasunn1/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/GeeksforGeeks-2E8B57?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="Raj's GFG Profile"/>
   </a>
 </p>
 <br>
-
 ---
+ 
 
 ### 🚀 My Projects
 <table>
