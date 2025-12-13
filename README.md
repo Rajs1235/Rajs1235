@@ -43,7 +43,7 @@
 
 ### 🏆 Stats & Achievements
 <p align="center">
-[![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajs1235)](https://github.com/Rajs1235/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
   <a href="https://github.com/Rajs1235">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajs1235&layout=compact&theme=tokyonight" alt="Top Langs" height="170px" />
   </a>
