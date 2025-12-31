@@ -1,124 +1,147 @@
-### 👋 Hi there, I'm Raj Srivastava!
-💻 I'm a passionate **Cloud-Native Developer** and a B.Tech student at MANIT, Bhopal, specializing in building **scalable, full-stack applications** using the **MERN stack** and robust **DevOps principles** (AWS, Docker, Jenkins). I am driven to solve real-world problems and collaborate on innovative projects that leverage modern, distributed architecture.
+# 👋 Hi there, I'm Raj Srivastava
+
+💻 Passionate **Cloud-Native Developer** and **B.Tech student at MANIT, Bhopal**, focused on building **scalable, full-stack applications** using the **MERN stack** and modern **DevOps practices** (AWS, Docker, Jenkins).
+
+I enjoy solving real-world problems using distributed systems, clean backend architecture, and production-ready workflows.
 
 ---
 
-### 🚀 WORK EXPERIENCE
-🧠 **Cloud Intern at Lava International Ltd.**
-* Successfully **developed and deployed** a serverless AI Resume Screener using various AWS services (Lambda, Textract, S3, DynamoDB).
-* Setting up and **managing** CI/CD pipelines for deployment stability with Jenkins, Docker, and RHEL.
+## 🚀 Work Experience
+
+### 🧠 Cloud Intern — Lava International Ltd.
+- Developed and deployed a **serverless AI Resume Screener** using AWS Lambda, S3, Textract, and DynamoDB  
+- Migrated core logic to a **FastAPI backend** for improved scalability and control  
+- Designed and managed **CI/CD pipelines** using Jenkins, Docker, and RHEL  
 
 ---
 
-### 💻 Technical Skills
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> |
-| **Frameworks/Libraries**| <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/> |
-| **Databases** | <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite"/>|
-| **Tools & Platforms** | <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/> |
+## 💻 Technical Skills
 
+**Languages**  
+C++, Python, JavaScript, HTML, CSS  
 
----
+**Frameworks & Libraries**  
+React, Node.js, Express.js, Tailwind CSS  
 
-### 🎓 Certifications
-* **Web Development using AI** by Cuvette
-* **Data Structures & Algorithms** by CodeHelp
+**Databases**  
+MongoDB, MySQL, Appwrite  
 
----
-
-### 📫 Let's Connect!
-<p align="left">
-<a href="mailto:raj25oct2003@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://www.linkedin.com/in/raj-srivastava-a680482b4/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/Rajs1235" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-</p>
+**Tools & Platforms**  
+AWS, Docker, Jenkins, GitHub, Postman, VS Code  
 
 ---
 
-### 🏆 Stats & Achievements
+## 🎓 Certifications
+- Web Development using AI — Cuvette  
+- Data Structures & Algorithms — CodeHelp  
+
+---
+
+## 🏆 GitHub Stats
+
 <p align="center">
-  <a href="https://github.com/Rajs1235">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rajs1235&show_icons=true&theme=tokyonight&count_private=false&include_all_commits=true&hide_rank=true" alt="Raj's GitHub Stats" height="170px" />
-  </a>
-  <a href="https://github.com/Rajs1235">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajs1235&layout=compact&theme=tokyonight" alt="Top Langs" height="170px" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajs1235&show_icons=true&theme=radical&hide_rank=true" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajs1235&layout=compact&theme=radical" height="170px"/>
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/rajsrivastava2510/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Raj's LeetCode Profile"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/user/rajsrivasunn1/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2E8B57?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="Raj's GFG Profile"/>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=Rajs1235&theme=radical&hide_border=true"/>
 </p>
 
 ---
- 
 
-### 🚀 My Projects
-<table>
-<tr>
-<td width="100%">
-<strong>🤖 AI Resume Screener</strong>
-<br/>
-<em>Status: ✅ Completed</em>
-<br/><br/>
+## 🚀 Projects
+
+### 🤖 AI Resume Screener
+**Status:** Completed  
+
 An AWS-based serverless system to parse and screen resumes, deployed on a private RHEL server.
-<br/><br/>
-<strong>Tech Stack:</strong> AWS Lambda, S3, Textract, DynamoDB, Jenkins, Docker
-<br/>
-<a href="https://prod.d2q5q5emrb0p3v.amplifyapp.com/" target="_blank"><strong>Check Out Project Here</strong></a>
-</td>
-</tr>
- 
-<tr>
-<td width="100%">
-<strong>🗺️ Digitization of MANIT Campus</strong>
-<br/>
-<em>Status: ✅ Completed</em>
-<br/><br/>
-A full-stack spatial mapping app with an interactive platform for campus navigation.
-<br/><br/>
-<strong>Tech Stack:</strong> React, Node.js, MongoDB, ArcGIS, MapBox
-<br/>
-<a href="https://bobbymanitmap.netlify.app/" target="_blank"><strong>Check Out Project Here</strong></a>
-</td>
-</tr>
-<tr>
-<td width="100%">
-<strong>⚙️ QUEUECTL: CLI Job Queue System</strong>
-<br/>
-<em>Status: ✅ Completed</em>
-<br/><br/>
-A production-grade, CLI-based background task queue manager designed for distributed tasks, featuring atomic job processing and robustness against system failures.
-<br/><br/>
-* **Key Features:** Persistent storage in MongoDB, concurrent worker processes via `child_process.fork`, atomic job locking to prevent race conditions, and automatic retries using **exponential backoff**.
-* **Robustness:** Implements a Dead Letter Queue (DLQ) for failed jobs and a graceful shutdown mechanism using `SIGTERM` signals.
-<br/>
-<strong>Tech Stack:</strong> Node.js, MongoDB, Mongoose, Commander.js, child_process
-<br/>
-<a href="https://github.com/Rajs1235/FLAM-TASK.git" target="_blank"><strong>View Codebase Here</strong></a>
-</td>
-</tr>
-<tr>
-<td width="100%">
-<strong>🤝 SkillSwap</strong>
-<br/>
- 
-<br/><br/>
-A peer-to-peer learning platform with real-time chat, video, and collaborative dashboards.
-<br/><br/>
-<strong>Tech Stack:</strong> MERN Stack, Socket.IO, Tailwind CSS, Jitsi API
-</td>
-</tr>
-</table>
+
+**Tech Stack:**  
+AWS Lambda, S3, Textract, DynamoDB, Jenkins, Docker  
+
+🔗 https://prod.d2q5q5emrb0p3v.amplifyapp.com/
+
+---
+
+### 🗺️ Digitization of MANIT Campus
+**Status:** Completed  
+
+A full-stack spatial mapping application providing interactive campus navigation using custom digitized map data.
+
+**Tech Stack:**  
+React, Node.js, MongoDB, ArcGIS, Mapbox GL JS  
+
+🔗 https://bobbymanitmap.netlify.app/
+
+---
+
+### ⚙️ QUEUECTL — CLI Job Queue System
+**Status:** Completed  
+
+A production-grade CLI-based background task queue manager designed for distributed workloads.
+
+**Key Features**
+- Atomic job locking to prevent race conditions  
+- Concurrent worker processes using `child_process.fork`  
+- Automatic retries with **exponential backoff**  
+- Dead Letter Queue (DLQ) for failed jobs  
+- Graceful shutdown using `SIGTERM`  
+
+**Tech Stack:**  
+Node.js, MongoDB, Mongoose, Commander.js  
+
+🔗 https://github.com/Rajs1235/FLAM-TASK.git
+
+---
+
+### 🏦 1Fi — Loan Management System (SDE Assignment)
+**Status:** Completed  
+
+A full-stack **Loan Management System (LMS)** demonstrating real-world backend API design, authentication, admin workflows, and frontend integration.
+
+#### ✨ Features
+
+**🔐 Admin Module**
+- JWT-based authentication  
+- Protected admin dashboard  
+- View all loan applications  
+- Update loan status & KYC verification  
+- Create and manage loan products  
+
+**📄 Loan Management**
+- Public loan product listing  
+- Loan application submission with collateral  
+- LTV validation based on product rules  
+- Status lifecycle: Pending → Ongoing → Approved / Rejected  
+
+**📧 Email Notification Logic (Demo Mode)**
+- Implemented using **Resend Email API**  
+- Emails triggered automatically on loan status updates  
+
+⚠️ **Demo Limitation**
+- Free tier allows emails only to the account owner  
+- Domain verification (paid) required for public emails  
+- Email logic is **production-ready**; limitation is provider-side  
+
+**Tech Stack**
+- Backend: Node.js, Express.js, MongoDB, Mongoose, JWT, Resend  
+- Frontend: React, Vite, Axios, React Router, Tailwind CSS  
+
+**Deployed URLs**
+- Backend: https://lms-backend-thkb.onrender.com  
+- Frontend: https://lms-frontend-bm49.vercel.app  
+
+---
+
+## 📫 Let’s Connect
+
+- 📧 Email: raj25oct2003@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/raj-srivastava-a680482b4/  
+- 🧑‍💻 GitHub: https://github.com/Rajs1235  
+- 🧠 LeetCode: https://leetcode.com/u/rajsrivastava2510/  
+- 📘 GeeksforGeeks: https://www.geeksforgeeks.org/user/rajsrivasunn1/  
+
+---
+
+⭐ *If you like my work, feel free to star my repositories and connect!*  
