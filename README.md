@@ -40,8 +40,12 @@ AWS, Docker, Jenkins, GitHub, Postman, VS Code
 ## 🏆 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajs1235&show_icons=true&theme=radical&hide_rank=true" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajs1235&layout=compact&theme=radical" height="170px"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rajs1235&show_icons=true&theme=radical&hide_rank=true" height="170px"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rajs1235&layout=compact&theme=radical" height="170px"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rajs1235&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
