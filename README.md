@@ -37,7 +37,7 @@ AWS, Docker, Jenkins, GitHub, Postman, VS Code
 
 ---
 
-## ## 🏆 GitHub Stats
+## 🏆 GitHub Stats
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/24bfc1e11975cc581a108af2f957a44291da389d99dcb61d4a27051bdf023ef8/68747470733a2f2f6769746875622d726561642d6d65742d73746174732e76657263656c2e6170702f3f757365723d52616a73313233352673686f775f69636f6e733d74727565" />
